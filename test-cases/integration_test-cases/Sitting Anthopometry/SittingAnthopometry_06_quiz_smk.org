@@ -11,7 +11,7 @@
   - To view the quiz of the "Sitting anthopometry, Static heights" experiment
 
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Sitting%20Anthopometry/SittingAnthopometry_01_usability_smk.org][SittingAnthopometry_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
