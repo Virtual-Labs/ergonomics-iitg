@@ -11,7 +11,7 @@
   - To view the Practical Experience of the "Human dimensional consideration for general seating" experiment
 
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Human%20Dimensional%20Consideration/HumanDimensionalConsideration_01_usability_smk.org][HumanDimensionalConsideration_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
