@@ -11,7 +11,7 @@
   - To view the Statistical method of Introduction to ergonomics experiment
 
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Introduction%20to%20Ergonomics/IntroductionToErgonomics_01_usability_smk.org][IntroductionToErgonomics_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
