@@ -8,10 +8,10 @@
   - Processor:i7
 
 * Objective
-  - To view ,take the quiz  of ìEffective work platform height, standingî experiment
+  - To view ,take the quiz  of ‚ÄúEffective work platform height, standing‚Äù experiment
 
 * Pre conditions
-  - Refer to first test case 
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Effective%20Work%20Platform/EffectiveWorkPlatform_01_usability_smk.org][EffectiveWorkPlatform_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
