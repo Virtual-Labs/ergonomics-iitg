@@ -8,10 +8,10 @@
   - Processor:i7
 
 * Objective
-  - To view ,take the quiz  of “Squatting Posture” experiment
+  - To view ,take the quiz  of â€œSquatting Postureâ€ experiment
 
 * Pre conditions
-  - Refer to first test case 
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Squatting%20Posture/SquattingPosture_01_usability_smk.org][SquattingPosture_01_usability_smk.org]] 
 * Post conditions
    - Nil
 * Test Steps
