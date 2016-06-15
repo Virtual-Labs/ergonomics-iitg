@@ -8,10 +8,10 @@
   - Processor:i7
 
 * Objective
-  - To view ,take the quiz  of “Hand Dimension” experiment
+  - To view ,take the quiz  of â€œHand Dimensionâ€ experiment
 
 * Pre conditions
-  - Refer to first test case 
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Hand%20Dimension/HandDimension_01_usability_smk.org][HandDimension_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
