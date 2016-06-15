@@ -11,7 +11,7 @@
   - To view the experiments of the Body movement ranges experiment
 
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Body%20Movement%20Ranges/BodyMovementRanges_01_usability_smk.org][BodyMovementRanges_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
