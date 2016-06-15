@@ -11,7 +11,7 @@
   - To view the Reference Datasheet of the Arm forward reaches, standing erect and forward bend experiment
 
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Arm%20Forward%20Reaches/ArmForwardReaches_01_usability_smk.org][ArmForwardReaches_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
