@@ -11,7 +11,7 @@
   - To view the Reference Datasheet of the Hand dimension experiment
 
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Hand%20Dimension/HandDimension_01_usability_smk.org][HandDimension_01_usability_smk.org]]
 * Post conditions
    - Nil
 * Test Steps
