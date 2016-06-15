@@ -10,7 +10,8 @@
 * Objective
   - To view the theory of the Horizontal work surface at around elbow height experiment
 * Pre conditions
-  - Refer to the first test case
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Horizontal%20Work%20Surface/horizontal_01_usability_smk.org][horizontal_01_usability_smk.org]]
+
 * Post conditions
    - Nil
 * Test Steps
