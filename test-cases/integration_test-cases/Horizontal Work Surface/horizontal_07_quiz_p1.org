@@ -8,10 +8,10 @@
   - Processor:i7
 
 * Objective
-  - To view ,take the quiz  of ìHorizontal work surface at around elbow heightî experiment
+  - To view ,take the quiz  of ‚ÄúHorizontal work surface at around elbow height‚Äù experiment
 
 * Pre conditions
-  - Refer to first test case 
+  - Refer to the first test case [[https://github.com/Virtual-Labs/ergonomics-iitg/blob/master/test-cases/integration_test-cases/Horizontal%20Work%20Surface/horizontal_01_usability_smk.org][horizontal_01_usability_smk.org]] 
 * Post conditions
    - Nil
 * Test Steps
